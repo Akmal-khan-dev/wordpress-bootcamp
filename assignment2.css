@@ -1,0 +1,36 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+table{
+    width: 100%;
+}
+.tb-name{
+    width: 30%;
+}
+#table-2{
+    margin: 30px;
+}
+#table-2 tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+
+
+.form-container{
+    width: 70%;
+    margin: auto;
+    border: 1px solid #000;
+    background-color: antiquewhite;
+    padding: 50px;
+}
+.form-container form{
+    width: 80%;
+    margin: auto;
+
+}
+
+.form-container div{
+    width: 80%;
+    margin: 10px auto;
+}
