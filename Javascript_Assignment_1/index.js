@@ -1,6 +1,6 @@
 function generateTable() {
     const number = parseInt(document.getElementById("number").value);
-    const limit = parseInt(document.getElementById("limit").value);
+    //const limit = parseInt(document.getElementById("limit").value);
     const tableContainer = document.getElementById("tableContainer");
 
     let tableHTML = "<table class='table-info table table-bordered table-striped-columns'>";
